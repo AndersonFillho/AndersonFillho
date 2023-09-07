@@ -34,6 +34,7 @@ Throughout these years, I've had the opportunity to collaborate in cross-functio
 
 <h3>I'm learning:</h3>
 <span><img src="https://img.shields.io/badge/Node.js%20-78b163?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" /></span>
+<span><img src="https://img.shields.io/badge/Nest.js%20-e0234e?style=for-the-badge&logo=Nestjs&logoColor=white" alt="nest.js" /></span>
 <span><img src="https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></span>
 <span><img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" /></span>
 
