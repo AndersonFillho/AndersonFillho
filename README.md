@@ -26,16 +26,16 @@ Throughout these years, I've had the opportunity to collaborate in cross-functio
 <h3>Front End development skills:</h3>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></span>
-<span><img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" /></span>
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" /></span>
-<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></span>
-<span><img src="https://img.shields.io/badge/elementor-92003b?style=for-the-badge&logo=elementor&logoColor=white" alt="elementor" /></span>
-
-<h3>I'm learning:</h3>
 <span><img src="https://img.shields.io/badge/Node.js%20-78b163?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" /></span>
 <span><img src="https://img.shields.io/badge/Nest.js%20-e0234e?style=for-the-badge&logo=Nestjs&logoColor=white" alt="nest.js" /></span>
 <span><img src="https://img.shields.io/badge/typescript-2d79c7?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></span>
+<span><img src="https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=white" alt="wordpress" /></span>
+<span><img src="https://img.shields.io/badge/elementor-92003b?style=for-the-badge&logo=elementor&logoColor=white" alt="elementor" /></span>
+
+<h3>I'm learning:</h3>
 <span><img src="https://img.shields.io/badge/PHP-02569B?style=for-the-badge&logo=PHP&logoColor=white" alt="PHP" /></span>
 
 <h3>Some Fun Facts about me:</h3>
