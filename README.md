@@ -1,4 +1,4 @@
-<h1 align="center"> ![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NsNHZ5ODJtYnk4Y3hqeDByeGNiN2pvNDlqc2t1cTRjczkxZzkxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif) </h1>
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NsNHZ5ODJtYnk4Y3hqeDByeGNiN2pvNDlqc2t1cTRjczkxZzkxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ExWdLKTCaz16/giphy.gif)
 
 <h1 align="center">< Hello World! 👋 I'm Anderson /></h1>
 <h3 align="center">A passionate FrontEnd Developer from Brazil</h3>
